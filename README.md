@@ -1,12 +1,44 @@
-# React + Vite
+📝 Todo App with Categories
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean Todo App built with React that allows users to organize tasks into categories.
+Helps improve productivity by keeping tasks well-organized and easy to manage.
 
-Currently, two official plugins are available:
+📋 Features
+  * Add, edit, and delete tasks
+  * Organize tasks into diffeerent categories (e.g All, Active, Complete )
+  * Mark tasks as Active , Complete
+  * Filter tasks by Category
+  * Responsive design -works on mobile and desktop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+      Technologies Used
+        * React.js
+        * Javascript
+        * HTML
+        * CSS3
 
-## Expanding the ESLint configuration
+✨ How to Run Locally
+  Clone the repository
+git clone https://github.com/your-username/todo-app.git
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Navigate into the project folder:
+*cd todo-app
+* install dependencies:
+* npm install
+
+  Start the development server:
+  *npm start
+  
+
+🎯 Future Improvements
+
+  * Add due dates for tasks
+  * Implement drag-and-drop to reorder tasks
+  * Add user authentication(login/signup)
+  * Dark mode support
+  * Save tasks to local storage or a database
+
+
+
+📜 License
+
+This project is open-source and free to use.
